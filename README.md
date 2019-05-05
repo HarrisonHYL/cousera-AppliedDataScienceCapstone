@@ -1,1 +1,1 @@
-# cousera-AppliedDataScienceCapstone
+# coursera-AppliedDataScienceCapstone
